@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Goal-Tracking-OKR-Management?style=social)](https://github.com/ishandutta2007/Awesome-Goal-Tracking-OKR-Management/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Goal-Tracking-OKR-Management?style=social)](https://github.com/ishandutta2007/Awesome-Goal-Tracking-OKR-Management/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Goal-Tracking-OKR-Management?style=social)](https://github.com/ishandutta2007/Awesome-Goal-Tracking-OKR-Management/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Goal-Tracking-OKR-Management/pulls)
@@ -78,9 +78,9 @@ Below is a comparison of top commercial SaaS platforms for goal tracking and OKR
 
 Self-hosted and open-source OKR tools give engineering teams full data sovereignty, zero per-seat licensing fees, and direct database/API extensibility.
 
-The table below includes all major active open-source goal-tracking engines, suites, and templates, sorted in descending order by **GitHub Star Count**.
+The table below includes all major active open-source goal-tracking engines, suites, and templates, sorted in descending order by **GitHub Stars_Count**.
 
-| Project | Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 |---------|-------|---------|-------------|
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPLv3 | **Enterprise open-source ERP with native Goals & Gamification modules.** Connects high-level business objectives directly to operational ERP metrics (sales, invoices, projects), eliminating manual status reports. |
 | **[OpenProject](https://github.com/opf/openproject)** | [![Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) | GPLv3 | **Full-featured project management suite with native OKR tracking.** Embeds OKR work packages directly into portfolio boards, Gantt timelines, and agile sprints—ideal for organizations needing compliance and project traceability. |
@@ -121,7 +121,7 @@ Contributions are welcome! Help us keep this directory up-to-date and complete:
 2. 🌿 **Create a new branch** (`git checkout -b add-my-tool`).
 3. 📝 **Add your entry** to either the SaaS or Open-Source section:
    - Ensure SaaS entries include verified pricing and exact free tier / trial limits.
-   - Ensure Open-Source entries include a repository link, official social star badge, license, and concise description.
+   - Ensure Open-Source entries include a repository link, official social Stars_Badge, license, and concise description.
 4. 🚀 **Submit a Pull Request** with a brief summary of the proposed changes.
 
 ---
@@ -156,3 +156,12 @@ If you found this curated list helpful for tracking goals, structuring OKRs, or 
 **Made with ❤️ for OKR champions, operations leaders, and teams building goal-driven execution infrastructure.**
 
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Goal-Tracking-OKR-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Goal-Tracking-OKR-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Goal-Tracking-OKR-Management_growth.svg">
+  </picture>
+</a>
