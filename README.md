@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global OKR and goal-management software market is valued at approximately **$1.4 billion to $1.5 billion** (expanding at a ~14–15% CAGR toward $3B–$5B+ by the 2030s), while broader enterprise performance and goal-setting suites represent a **$5B+** ecosystem. Market concentration is **moderately fragmented**: while a vast long-tail of specialized, standalone point solutions competes at the startup and team tier, the enterprise segment is consolidating into multi-product continuous performance ecosystems (such as Lattice, Betterworks, and WorkBoard) that bundle goal tracking with reviews, engagement, and compensation.
 
 ## SaaS/Hosted Platforms
 
