@@ -15,7 +15,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
@@ -24,12 +24,12 @@ Contributions welcome! Open an PR to add/update entries. Keep descriptions factu
 
 | Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-------------|-------------------|--------------------------|
-| **[Quantive Results](https://quantive.com/)** | **Strategy execution platform with OKRs at the foundation.** **Essentials plan is free for up to 5 users** with basic OKR features and goal tracking. **Growth: $9/user/month** for unlimited users and full OKR software . | Growth: **$9/user/month**; Essentials: **free** (5 users) | **Free**: up to 5 users, basic OKR features, goal tracking; **free trial** available  |
-| **[15Five](https://www.15five.com/)** | **Performance management with OKRs built into the Perform tier.** **Perform: $11/user/month** (annual) includes OKRs & Goals alongside performance reviews. **Total Platform: $16/user/month** adds engagement surveys . | Perform: **$11/user/month** (annual); Total Platform: **$16**  | No permanent free tier; demo via sales |
-| **[Perdoo](https://www.perdoo.com/)** | OKR and strategy execution platform. Per-user pricing; no self-hosted option . | Quote-only (per-user) | No free tier; demo via sales |
-| **[Lattice](https://lattice.com/)** | Performance management with goals and OKRs. Goals module **$8/seat/month**; Performance: **$10/seat/month**. Minimum annual agreement **$4,000** . | Goals: **$8/seat/month**; Performance: **$10/seat/month**  | No free tier; demo via sales |
-| **[Betterworks](https://www.betterworks.com/)** | Enterprise OKR and performance management. Modular per-employee pricing; multi-year commitments unlock **15–30% lower pricing** . | Quote-only | No free tier; demo via sales |
-| **[Weekdone](https://weekdone.com/)** | Weekly OKR tracking and progress check-ins. Per-user pricing; SourceForge lists starting at **$90/month** for teams . | From **$90/month**  | No free tier; trial available |
+| **[Quantive Results](https://quantive.com/)** | **Strategy execution platform with OKRs at the foundation.** Essentials plan is free for up to 5 users. Growth tier starts at $9/user/month. | Growth: **$9/user/month** (annual); Essentials: **$0** (free tier up to 5 users) | **Free forever plan**: Up to 5 users, basic OKR tracking; enterprise proof-of-concept trial available via sales demo |
+| **[15Five](https://www.15five.com/)** | **Performance management with OKRs built into the Perform tier.** Includes OKRs & goals, 1-on-1s, and check-ins. | Perform: **$11/user/month** (billed annually, min. contract); Total Platform: **$16/user/month** | **14-day free trial** with full feature access; no permanent free tier |
+| **[Perdoo](https://www.perdoo.com/)** | OKR and strategy execution platform with strategy maps and KPI boards. | Premium: **€6.40/user/month** (billed annually, min. 10 users / €64/mo); Free plan: **€0** | **Free forever plan**: Up to 5 users with full OKRs, KPIs, strategy maps, and Slack/Teams integrations |
+| **[Lattice](https://lattice.com/)** | Performance management with goals and OKRs, reviews, and continuous feedback. | Goals module: **$8/seat/month** (or Performance + OKRs at **$11/seat/month**); minimum annual agreement **$4,000/year** | No self-serve free trial and no free tier; interactive click-through product tours and guided live demos upon request |
+| **[Betterworks](https://www.betterworks.com/)** | Enterprise OKR and continuous performance management system. | Performance: **$8/user/month** (billed annually, ~$96/user/year plus one-time implementation fee) | No public self-serve free trial and no permanent free tier; guided pilot trial and custom sandbox upon sales demo |
+| **[Weekdone](https://weekdone.com/)** | Weekly OKR tracking, progress check-ins, and 3P (Plans, Progress, Problems) reporting. | Paid plans: from **$10.80/user/month** (annual billing, 4–10 users tier) or **$90/month** team package | **Free forever plan**: Up to 3 users with full platform features; automatically transitions to a **14-day free trial** when adding 4+ users |
 
 ## Open-Source GitHub Projects
 
