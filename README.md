@@ -1,6 +1,6 @@
 # Awesome-Goal-Tracking-OKR-Management
 
-# Top Goal Tracking & OKR Management Ecosystem
+## Top Goal Tracking & OKR Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Objectives & Key Results, Progress Check-ins & Self-Hosted Goal Engines*  
